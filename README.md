@@ -15,9 +15,13 @@ This is an implementation of the paper "Graded Image Generation Using Stratified
 
 - Run `python main.py` to test the model.
 
-- Click the  `Test` button.
+  ![gui] (assets/step 1_choose test.PNG)
+
+- To test the model, Click on the  `Test` button.
 
 - In  `Open test directory ` tab, select the folder  `./data/` which contains two subfolders:  `AO_images`  and  `spectralis30_images` . 
+
+  ![gui] (assets/step 1_choose test.PNG)
 
 - In  `Training weights ` tab, select the folder  `./saved_models/20200225-180644_labelcyclegan` .
 
