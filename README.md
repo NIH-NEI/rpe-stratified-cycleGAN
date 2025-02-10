@@ -17,7 +17,7 @@ This is a software implementation for the paper "**Artificial intelligence assis
 
   
 
-  <img src="assets/step 1_choose test.png" width="500" height="500" />
+  <img src="assets/step1.png" width="500" height="500" />
 
 - To test the model, Click on the  `Test` button.
 
@@ -25,7 +25,7 @@ This is a software implementation for the paper "**Artificial intelligence assis
 
   
 
-  <img src="assets/step2-0.png" width="3000" height="500" />
+  <img src="assets/step2.png" width="3000" height="500" />
 
 - In  `Training weights ` tab, select the folder  `./saved_models/20200225-180644_labelcyclegan` .
 
