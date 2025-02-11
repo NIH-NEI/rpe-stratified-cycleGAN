@@ -1,6 +1,6 @@
 NEI Software Distribution Agreement
 
-- DEFINITIONS: AUTHOR(S) Joanne Li, Jianfei Liu and Johnny Tam, National Eye Institute (NEI), National Institutes of Health (NIH).
+- DEFINITIONS: AUTHOR(S) Joanne Li, Jianfei Liu, Vineeta Das and Johnny Tam, National Eye Institute (NEI), National Institutes of Health (NIH).
 - PROVIDER: the National Eye Institute (NEI), a participating institute of the National Institutes of Health (NIH), and an agency of the United States Government.
 - SOFTWARE: the human readable source code form, the machine readable, binary, object code form, and the related documentation for the modules of the Stratified CycleGAN  software package, which is an artificial intelligence (AI) method to improve the visualization of retinal pigment epithelial (RPE) cells to adaptive optics like, single cell resolution from conventional clinical indocyanine green images of the retina.
 - RECIPIENT: the party that downloads the software.
