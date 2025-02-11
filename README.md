@@ -9,6 +9,18 @@ This is a software implementation for the paper "**Artificial intelligence assis
 - Windows 10
 - NVIDIA GPU +CUDA (tested on NVIDIA TITAN V, CUDA 11.7)
 
+###  Installation
+
+- Install Anaconda and PyCharm
+
+- In the Anaconda prompt
+
+  ```
+  conda create -name <newenv> --file <path to the spec-file.txt file provided in the repo>
+  ```
+  
+- In PyCharm, create a new project and add the  `newenv` as the python interpreter
+
 # Demo 
 
 ### Test
