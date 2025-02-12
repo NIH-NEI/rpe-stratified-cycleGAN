@@ -7,7 +7,7 @@ This is a software implementation for the paper "**Artificial intelligence assis
 ### Prerequisites
 
 - Windows 10
-- NVIDIA GPU +CUDA (tested on NVIDIA TITAN V, CUDA 11.7)
+- Tested on NVIDIA TITAN V, CUDA 9.0 and CUDNN 7.6.5
 
 ###  Installation
 
