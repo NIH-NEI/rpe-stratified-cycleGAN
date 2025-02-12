@@ -53,7 +53,7 @@ This is a software implementation for the paper "**Artificial intelligence assis
 
 - Stratified CycleGAN enhanced RPE cells (AI-ICG)
 
-  <img src="assets/cycleGAN enhanced.png" width="512" height="512" />
+  <img src="assets/StratifiedcycleGAN enhanced.png" width="512" height="512" />
   
 - Adaptive optics image of RPE cells (AO-ICG, Ground truth)
 
