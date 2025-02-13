@@ -2,6 +2,10 @@
 
 This is a software implementation for the paper "**Artificial intelligence assisted clinical fluorescence imaging achieves in vivo cellular resolution comparable to adaptive optics ophthalmoscopy**".
 
+If any portion of this code is used, please site the following paper in your publication:
+
+Joanne Li et al. "Artificial intelligence assisted clinical fluorescence imaging achieves in vivo cellular resolution comparable to adaptive optics ophthalmoscopy".
+
 # System Requirements
 
 ### Prerequisites
