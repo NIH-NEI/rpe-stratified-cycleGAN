@@ -49,6 +49,10 @@ Joanne Li et al. "Artificial intelligence assisted clinical fluorescence imaging
 
 - The generated images are automatically saved in `./generate_images` .
 
+To quickly test the model without any installations, run the executable file  `RPE_AO_Enhancement_v2.exe` . Click  `Open` to upload the test images and then click on `Generate `. From the drop down menu, select `Label CycleGAN` to visualize the AI_ICG enhanced images.
+
+
+
 # Example Images
 
 - Conventional indocyanine green (ICG) image of the RPE cells 
