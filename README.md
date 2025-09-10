@@ -4,7 +4,7 @@ This is a software implementation for the paper "**Artificial intelligence assis
 
 If any portion of this code is used, please cite the following paper in your publication:
 
-Joanne Li et al. "Artificial intelligence assisted clinical fluorescence imaging achieves in vivo cellular resolution comparable to adaptive optics ophthalmoscopy".
+Joanne Li et al. "Artificial intelligence assisted clinical fluorescence imaging achieves in vivo cellular resolution comparable to adaptive optics ophthalmoscopy", Communications Medicine 5.1 (2025): 105.
 
 # System Requirements
 
